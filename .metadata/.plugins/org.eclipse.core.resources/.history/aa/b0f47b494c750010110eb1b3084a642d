@@ -1,0 +1,13 @@
+package com.kk.controllers;
+
+public class FabonacciSeries {
+	public static void main(String[] args) {
+		
+	
+	int n=10;
+	int no1=0;
+	int no2=1;
+	System.out.println("fabonacciseries");
+	
+
+}

@@ -1,0 +1,13 @@
+package com.kk.controllers;
+
+import java.util.concurrent.ForkJoinPool;
+
+public class MultiplicationTable {
+	int no=7;
+	System.out.println("multiplicaton table");
+	For( int i=1;)
+	
+	
+	
+
+}

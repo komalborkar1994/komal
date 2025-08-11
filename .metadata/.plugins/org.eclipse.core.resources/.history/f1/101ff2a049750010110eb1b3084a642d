@@ -1,0 +1,22 @@
+package com.kk.controllers;
+
+public class PalindromNo {
+	public static void main(String[] args) {
+		int no=12342;
+		int reverseno=0;
+		int originalno=no;
+		int digit=0;
+		while(no!=0) {
+			no=no%10;
+			reverseno=reverseno*10+digit;
+			no=no/10;
+		}
+		if(originalno=reverseno)
+		{
+			
+		}
+		
+		
+	}
+
+}

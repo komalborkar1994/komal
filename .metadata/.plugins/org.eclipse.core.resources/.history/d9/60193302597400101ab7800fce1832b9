@@ -1,0 +1,10 @@
+package staticprogram;
+
+public class Animal {
+	public static void main(String[] args) {
+		Animal a=new Animal();
+		
+		
+	}
+
+}

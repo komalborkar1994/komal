@@ -1,0 +1,12 @@
+package controlstatement;
+
+public class LargeOfTwoNo {
+	public static void main(String[] args) {
+		int no1=45;
+		int no2=56;
+		if(a>=b)
+			System.out.println("a is greater");
+		
+	}
+
+}

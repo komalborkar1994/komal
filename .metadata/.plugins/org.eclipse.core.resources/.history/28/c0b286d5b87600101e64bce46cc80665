@@ -1,0 +1,10 @@
+package repository;
+
+import entity.Team;
+
+public class Teamrepository {
+	public static Teamrepositor
+	Team team=new Team();
+	team
+
+}

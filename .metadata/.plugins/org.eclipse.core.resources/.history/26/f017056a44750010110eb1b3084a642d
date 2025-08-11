@@ -1,0 +1,13 @@
+package com.kk.controllers;
+
+public class SwappingTwoNo {
+	public static void main(String[] args) {
+		int no1=20;
+		int no2=43;
+		int temp=no1
+		no1=no2;
+		no2=no1;
+		
+	}
+
+}

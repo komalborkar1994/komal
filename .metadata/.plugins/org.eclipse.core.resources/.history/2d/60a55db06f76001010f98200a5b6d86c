@@ -1,0 +1,18 @@
+package privateprogram;
+
+public class SettergetterProgram {
+	private String name;
+	private int mobno;
+	private String empidString;
+
+	public void setName(String name) {
+		this.name = name;
+		}
+public String getname() {
+		return name;
+		}
+public void setmobno()
+{this.mobno=mobno;
+	
+}
+}

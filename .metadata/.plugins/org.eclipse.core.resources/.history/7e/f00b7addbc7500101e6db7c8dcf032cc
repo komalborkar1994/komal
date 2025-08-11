@@ -1,0 +1,10 @@
+package constructors;
+
+public class Student {
+	String name;
+	String deparment;
+	int age;
+	public Student(String name,String deparmentString.)
+	
+
+}

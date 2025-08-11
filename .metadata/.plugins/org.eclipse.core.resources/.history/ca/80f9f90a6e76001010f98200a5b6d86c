@@ -1,0 +1,29 @@
+package staticprogram;
+
+import java.rmi.
+
+import javax.sound.midi.VoiceStatus;
+
+public class PrivateKeyword {
+	
+	private	String name;
+	
+		private int mobno;
+		
+		private String deparment;
+		
+		public Void task()
+		{
+			System.out.println("name:"+name);
+			System.out.println("mobno:"+mobno);
+			System.out.println("deparment:"+deparment);
+			return null;
+		}
+		
+		
+		
+		
+		
+	}
+
+

@@ -1,0 +1,14 @@
+package privateprogram;
+
+import java.awt.SplashScreen;
+import java.awt.font.ShapeGraphicAttribute;
+
+public class Demo {
+public static void main(String[] args) {
+	SettergetterProgram sp= new SettergetterProgram() {
+	SplashScreen.
+
+	}
+	
+}
+}

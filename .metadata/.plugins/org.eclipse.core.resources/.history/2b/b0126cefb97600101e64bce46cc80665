@@ -1,0 +1,17 @@
+package repository;
+
+import entity.Team;
+
+public class Teamrepository {
+	public static Team getMITeamDetail() {
+	Team team=new Team();
+	team.setId(101);
+	team.setTeamName("mumbai");
+	team.setCaptainNameString("hardik pandya");
+	team.setCaptainNameString("jayvardhane");
+	team.setnRR(2.3f);
+	team.setQualified(false);
+	
+	
+	}
+}

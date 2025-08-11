@@ -1,0 +1,16 @@
+package staticprogram;
+
+public class Demo {
+	static {
+		System.out.println("static block");
+		
+		
+	}
+	int sts
+	private static void name() {
+		System.out.println("tiger");
+		
+		
+	}
+
+}

@@ -1,0 +1,8 @@
+package starprogram;
+
+public class StarpatternProgram {
+	public static void main(String[] args) {
+		
+	}
+
+}

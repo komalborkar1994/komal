@@ -1,0 +1,13 @@
+package privateprogram;
+
+public class paticent {
+	private  String  name;
+	private String disease;
+	public void getPaticentDetail()
+	{
+		System.out.println("name:");
+	}
+	
+	
+
+}

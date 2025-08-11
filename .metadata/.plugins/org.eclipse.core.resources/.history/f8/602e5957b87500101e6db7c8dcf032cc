@@ -1,0 +1,11 @@
+package stringprogram;
+
+public class StringDemo {
+	public static void main(String[] args) {
+		String day="monday";
+		System.out.println(day);
+		int length
+		
+	}
+
+}

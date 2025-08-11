@@ -1,0 +1,8 @@
+package staticprogram;
+
+public class Demo {
+	static {
+		System.out.println("i");
+	}
+
+}

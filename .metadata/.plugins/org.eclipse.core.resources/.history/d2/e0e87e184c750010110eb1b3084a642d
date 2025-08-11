@@ -1,0 +1,6 @@
+package com.kk.controllers;
+
+public class FabonacciSeries {
+	int n=
+
+}

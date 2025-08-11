@@ -1,0 +1,19 @@
+package privateprogram;
+
+public class Doctor {
+	private String name;
+	private String deparment=;
+	private  String education;
+	private void printDetails()
+	{
+		System.out.println("doctor information");
+		
+	}
+	
+	
+	{
+	
+	}
+	
+
+}

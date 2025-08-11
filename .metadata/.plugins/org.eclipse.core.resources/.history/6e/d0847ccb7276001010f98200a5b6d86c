@@ -1,0 +1,11 @@
+package staticprogram;
+
+public class Demo2 {
+	public static void main(String[] args) {
+		System.out.println(Animal1.name);
+		System.out.println(Animal1.age);
+		System.out.println(Animal1.name);
+		
+	}
+
+}

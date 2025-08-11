@@ -1,0 +1,9 @@
+package com.kk.controllers;
+
+public class HclOfTwoNo {
+	public static void main(String[] args) {
+		int no1=12;
+		int no2=15
+	}
+
+}

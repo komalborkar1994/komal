@@ -1,0 +1,10 @@
+package com.kk.controllers;
+
+public class MultiplicationTable {
+	int no=7;
+	System.out.println("multiplicaton table");
+	
+	
+	
+
+}

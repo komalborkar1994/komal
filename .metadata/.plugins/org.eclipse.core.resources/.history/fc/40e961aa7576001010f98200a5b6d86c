@@ -1,0 +1,9 @@
+package com.kk.controllers;
+
+public class PrintEvenNo {
+	public static void main(String[] args) {
+		int no=50;
+		if()
+	}
+
+}

@@ -1,0 +1,29 @@
+package constructors;
+
+import java.awt.Color;
+
+public class Animal {
+	public void getName() {
+		String name="buzo";
+		System.out.println(name);
+	}
+	public void getAge(int age)
+	{
+		age=34;
+		System.out.println(age);
+	}
+	public String getColour(String colour) {
+		 colour= colour;
+		return colour1;
+	}
+
+	
+public static void main(String[] args) {
+	Animal animal=new Animal();
+animal.getColour();
+	animal.getAge(12);
+	animal.getName();
+	
+
+}
+}

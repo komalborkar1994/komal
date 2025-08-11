@@ -1,0 +1,15 @@
+package staticprogram;
+
+public class Student {
+	static String name;
+	
+	static String collegeName;
+	 public static void getDetail()
+	 {
+		 System.out.println("all student details");
+	 }
+	 public void getCity
+	
+	
+
+}

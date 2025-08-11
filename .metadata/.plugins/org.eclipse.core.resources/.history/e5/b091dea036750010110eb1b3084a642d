@@ -1,0 +1,7 @@
+package com.kk.controllers;
+
+public class Leapyear {
+	int year=2045;
+	
+
+}

@@ -1,0 +1,10 @@
+package service;
+
+import repository.Teamrepository;
+
+public class TeamService {
+	public void PrintTeamDetail() {
+		Team team=Teamrepository.getMITeamDetail()
+	}
+
+}

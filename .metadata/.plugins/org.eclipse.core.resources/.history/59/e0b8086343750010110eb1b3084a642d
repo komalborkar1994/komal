@@ -1,0 +1,23 @@
+package com.kk.controllers;
+
+
+
+public class FactorialProgram {
+	public static void main(String[] args) {
+		
+	}
+	int no=5;
+	if( int i=1;i<=no;i++)
+	{
+		fact=fact*i;
+	}
+private void syso() {
+	// TODO Auto-generated method stub
+
+
+
+	}
+	
+			)
+
+}

@@ -1,0 +1,18 @@
+package privateprogram;
+
+import java.awt.SplashScreen;
+import java.awt.font.ShapeGraphicAttribute;
+
+public class Demo {
+public static void main(String[] args) {
+	SettergetterProgram st= new SettergetterProgram(); 
+		st.setempid(101);
+		st.setmobno(123454323);
+		st.setName("komal);
+		
+
+
+	}
+	
+}
+}

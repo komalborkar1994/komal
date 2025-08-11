@@ -1,0 +1,9 @@
+package com.kk.controllers;
+
+public class PrimeNumber {
+public static void main(String[] args) {
+	int no=23;
+	if(Number<=1)
+	
+}
+}

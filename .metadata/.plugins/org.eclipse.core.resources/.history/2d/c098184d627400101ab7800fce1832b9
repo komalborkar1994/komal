@@ -1,0 +1,26 @@
+package privateprogram;
+
+public class paticent {
+	private  String  name;
+	private String disease;
+	public void getPaticentDetail()
+	{
+		System.out.println("name:"+name);
+		System.out.println("disease:"+disease);
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public String getDisease() {
+		return disease;
+	}
+	public void setDisease(String disease) {
+		this.disease = disease;
+	}
+	
+	
+
+}

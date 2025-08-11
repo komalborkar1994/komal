@@ -1,0 +1,12 @@
+package com.kk.controllers;
+
+public class SumOfEvenNo {
+	public static void main(String[] args) {
+		int sum=o;
+		for(int i=1;i<=100;i++) {
+			if(i%2)
+		}
+		
+	}
+
+}

@@ -1,0 +1,25 @@
+package privateprogram;
+
+public class A {
+	public static void main(String[] args) {
+		Doctor d = new Doctor();
+
+		d.setDrdeparment("OPD");
+		d.setDrname("nitin");
+		d.setDreducation("MBBS");
+
+		System.out.println(d.getDrdeparment());
+		System.out.println(d.getDrname());;
+System.out.println();
+		d.getDreducation();
+
+		paticent p = new paticent();
+
+		p.setName("komal");
+		p.setDisease("Bp");
+		p.getName();
+		p.getDisease();
+
+	}
+
+}

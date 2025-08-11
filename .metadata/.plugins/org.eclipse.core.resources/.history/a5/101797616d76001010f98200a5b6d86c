@@ -1,0 +1,17 @@
+package staticprogram;
+
+import java.rmi.MarshalledObject;
+
+public class PrivateKeyword {
+	
+	private	String name;
+	
+		private int mobno;
+		
+		
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,50 @@
+package entity;
+
+public class Team {
+private int id;
+private String teamName;
+private String captainNameString;
+private String coachNameString;
+private boolean isQualified;
+private float nRR;
+public int getId() {
+	return id;
+}
+public void setId(int id) {
+	this.id = id;
+}
+public String getTeamName() {
+	return teamName;
+}
+public void setTeamName(String teamName) {
+	this.teamName = teamName;
+}
+public String getCaptainNameString() {
+	return captainNameString;
+}
+public void setCaptainNameString(String captainNameString) {
+	this.captainNameString = captainNameString;
+}
+public String getCoachNameString() {
+	return coachNameString;
+}
+public void setCoachNameString(String coachNameString) {
+	this.coachNameString = coachNameString;
+}
+public boolean isQualified() {
+	return isQualified;
+}
+public void setQualified(boolean isQualified) {
+	this.isQualified = isQualified;
+}
+public float getnRR() {
+	return nRR;
+}
+public void setnRR(double d) {
+	this.nRR = ;
+}
+
+
+
+
+}

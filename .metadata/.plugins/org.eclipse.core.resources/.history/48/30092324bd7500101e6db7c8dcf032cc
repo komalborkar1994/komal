@@ -1,0 +1,18 @@
+package constructors;
+
+public class Student {
+	String name;
+	String deparment;
+	int age;
+	public Student(String name,String deparmentString,int age)
+	{
+		this.name=name;
+		this.deparment=deparment;
+		this.age=age;
+	}
+	public void getStudentDetail()
+	{
+		System.out.println("name:");
+	}
+
+}

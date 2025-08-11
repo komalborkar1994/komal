@@ -1,0 +1,20 @@
+package com.kk.controllers;
+
+
+
+public class FactorialProgram {
+	public static void main(String[] args) {
+		
+	}
+	int no=5;
+	if( int i=1;i<=no;i++)
+	{
+		fact=fact*i;
+	}
+	System.out.println(fact);
+
+	}
+	
+			)
+
+}
