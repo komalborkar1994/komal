@@ -1,9 +1,0 @@
-package repository;
-
-import entity.Team;
-
-public class Teamrepository {
-	Team team=new Team();
-	Team.
-
-}

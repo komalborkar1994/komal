@@ -1,7 +1,0 @@
-package staticprogram;
-
-public class Animal1 {
-	Static String name;
-	
-
-}
