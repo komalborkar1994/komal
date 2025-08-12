@@ -43,23 +43,23 @@ public class TeamService {
 		System.out.println(team3.isQualified());
 		System.out.println("----------------------------");
 
-		Team team4 = Teamrepository.getLucknowSupergiantsTeamDetail();
+		Team team4 = Teamrepository.getRoyalChallengerBengaluruTeamDetail();
 		System.out.println(team4.getId());
 		System.out.println(team4.getCaptainNameString());
 		System.out.println(team4.getCoachNameString());
 		System.out.println(team4.getTeamName());
 		System.out.println(team4.getnRR());
 		System.out.println(team4.isQualified());
-		System.out.println("----------------------------------");
+		System.out.println("---------------------------------");
 
-		Team team5 = Teamrepository.getPunjabKingsTeamDetail();
+		Team team5 = Teamrepository.getLucknowSupergiantsTeamDetail();
 		System.out.println(team5.getId());
 		System.out.println(team5.getCaptainNameString());
 		System.out.println(team5.getCoachNameString());
 		System.out.println(team5.getTeamName());
 		System.out.println(team5.getnRR());
 		System.out.println(team5.isQualified());
-		System.out.println("--------------------------------");
+		System.out.println("----------------------------------");
 
 		Team team6 = Teamrepository.getRajastanRoyalTeamDeatil();
 		System.out.println(team6.getId());
@@ -68,6 +68,33 @@ public class TeamService {
 		System.out.println(team6.getTeamName());
 		System.out.println(team6.getnRR());
 		System.out.println(team6.isQualified());
+		System.out.println("---------------------------------");
+
+		Team team7 = Teamrepository.getPunjabKingsTeamDetail();
+		System.out.println(team7.getId());
+		System.out.println(team7.getCaptainNameString());
+		System.out.println(team7.getCoachNameString());
+		System.out.println(team7.getTeamName());
+		System.out.println(team7.getnRR());
+		System.out.println(team7.isQualified());
+		System.out.println("--------------------------------");
+
+		Team team8 = Teamrepository.getGujaratTitansTeamDeatil();
+		System.out.println(team8.getId());
+		System.out.println(team8.getCaptainNameString());
+		System.out.println(team8.getCoachNameString());
+		System.out.println(team8.getTeamName());
+		System.out.println(team8.getnRR());
+		System.out.println(team8.isQualified());
+		System.out.println("---------------------------------");
+
+		Team team9 = Teamrepository.getSunrisersTeamDeatil();
+		System.out.println(team9.getId());
+		System.out.println(team9.getCaptainNameString());
+		System.out.println(team9.getCoachNameString());
+		System.out.println(team9.getTeamName());
+		System.out.println(team9.getnRR());
+		System.out.println(team9.isQualified());
 		System.out.println("---------------------------------");
 
 	}
