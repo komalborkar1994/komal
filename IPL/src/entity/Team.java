@@ -3,10 +3,19 @@ package entity;
 public class Team {
 private int id;
 private String teamName;
-private String captainNameString;
-private String coachNameString;
+private String captainName;
+private String coachName;
 private boolean isQualified;
 private float nRR;
+private String shortname;
+
+
+
+@Override
+public String toString() {
+	return "Team [id=" + id + ", teamName=" + teamName + ", captainName=" + captainName + ", coachName=" + coachName
+			+ ", isQualified=" + isQualified + ", nRR=" + nRR + ", shortname=" + shortname + "]";
+}
 public int getId() {
 	return id;
 }
@@ -19,17 +28,17 @@ public String getTeamName() {
 public void setTeamName(String teamName) {
 	this.teamName = teamName;
 }
-public String getCaptainNameString() {
-	return captainNameString;
+public String getCaptainName() {
+	return captainName;
 }
-public void setCaptainName(String captainNameString) {
-	this.captainNameString = captainNameString;
+public void setCaptainName(String captainName) {
+	this.captainName = captainName;
 }
-public String getCoachNameString() {
-	return coachNameString;
+public String getCoachName() {
+	return coachName;
 }
-public void setCoachName(String coachNameString) {
-	this.coachNameString = coachNameString;
+public void setCoachName(String coachName) {
+	this.coachName = coachName;
 }
 public boolean isQualified() {
 	return isQualified;
@@ -40,8 +49,14 @@ public void setQualified(boolean isQualified) {
 public float getnRR() {
 	return nRR;
 }
-public void setnRR(double d) {
+public void setnRR(float nRR) {
 	this.nRR = nRR;
+}
+public String getShortname() {
+	return shortname;
+}
+public void setShortname(String shortname) {
+	this.shortname = shortname;
 }
 
 
