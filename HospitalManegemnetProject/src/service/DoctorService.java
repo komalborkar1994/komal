@@ -16,8 +16,7 @@ public class DoctorService {
 		System.out.println("Please select following option");
 		System.out.println("1.get All Doctor Detail");
 		System.out.println("2.get doctor By id");
-//		for( int input=1;input>=3;input++)
-
+		
 		int input = sc.nextInt();
 		System.out.println("you have selected option : " + input);
 

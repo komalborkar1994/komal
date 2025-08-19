@@ -3,6 +3,7 @@ package repository;
 import entity.Team;
 
 public class Teamrepository {
+	
 	public static Team getMITeamDetail() {
 		Team team = new Team();
 		team.setId(100);

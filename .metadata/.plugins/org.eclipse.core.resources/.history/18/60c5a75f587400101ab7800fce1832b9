@@ -1,8 +1,0 @@
-package staticprogram;
-
-public class Demo {
-	static {
-		
-	}
-
-}

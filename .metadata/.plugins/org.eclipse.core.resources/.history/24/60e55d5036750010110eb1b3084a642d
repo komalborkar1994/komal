@@ -1,9 +1,0 @@
-package com.kk.controllers;
-
-public class EvenOddNumber {
-	public static void main(String[] args) {
-		
-		
-	}
-
-}

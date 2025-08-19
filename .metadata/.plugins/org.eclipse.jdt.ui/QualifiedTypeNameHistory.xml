@@ -6,11 +6,9 @@
     <fullyQualifiedTypeName name="privateprogram.Doctor"/>
     <fullyQualifiedTypeName name="java.lang.Deprecated"/>
     <fullyQualifiedTypeName name="privateprogram.paticent"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.io.NotActiveException"/>
     <fullyQualifiedTypeName name="java.util.concurrent.ForkJoinPool"/>
     <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicInternalFrameTitlePane.IconifyAction"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.Iterable"/>
     <fullyQualifiedTypeName name="java.nio.file.attribute.UserDefinedFileAttributeView"/>
     <fullyQualifiedTypeName name="java.lang.classfile.instruction.SwitchCase"/>
@@ -26,5 +24,14 @@
     <fullyQualifiedTypeName name="java.lang.Boolean"/>
     <fullyQualifiedTypeName name="constructors.Animal"/>
     <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="entity.Student"/>
+    <fullyQualifiedTypeName name="service.SchoolService"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalAccessError"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="service.DoctorService"/>
+    <fullyQualifiedTypeName name="repository.Doctorrepository"/>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>

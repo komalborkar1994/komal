@@ -1,6 +1,0 @@
-package privateprogram;
-
-public class paticent {
-	private  String  name="komal";
-
-}
