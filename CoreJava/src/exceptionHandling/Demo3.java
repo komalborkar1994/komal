@@ -1,0 +1,21 @@
+package exceptionHandling;
+
+import java.security.InvalidParameterException;
+
+public class Demo3 {
+	public static void main(String[] args) {
+		
+	
+	int age = 12;
+
+	if (age < 18) {
+		throw new InvalidParameterException("Only 18 plus allowed");
+		// not eligible for voting
+	} else {
+		System.out.println("Can vote");
+	}
+}
+
+}
+
+
