@@ -3,6 +3,7 @@ package Array;
 public class PraticeArray {
 
 	public static void main(String[] args) {
+		
 		String[]kk= {"komal","Neha","Manisha","sujata"};
 		System.out.println(kk[0]);
 		System.out.println(kk[1]);

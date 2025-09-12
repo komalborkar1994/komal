@@ -1,8 +1,11 @@
 package Array;
 
-public class Array {
+public class Array 
+{
 	public static void main(String[] args) {
+		
 //		int[]a= {12,23,34,43,45,54};
+		
 //		System.out.println(a[0]);
 //		System.out.println(a[1]);
 //		System.out.println(a[2]);
@@ -19,6 +22,7 @@ public class Array {
 //		insertion of an array:
 
 		int[]rollno=new int[3];
+		
 		rollno[1]=34;
 		rollno[0]=45;
 		rollno[2]=78;
