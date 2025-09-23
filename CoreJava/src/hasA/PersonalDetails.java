@@ -3,6 +3,8 @@ package hasA;
 public class PersonalDetails {
 	private String fathername;
 	private String mothername;
+	
+	
 	public String getFathername() {
 		return fathername;
 	}

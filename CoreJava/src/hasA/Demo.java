@@ -9,18 +9,17 @@ public class Demo {
 
 		PersonalDetails personalDetails = new PersonalDetails();
 
-		personalDetails.setFathername("suresh");
-		personalDetails.setMothername("lata");
+		personalDetails.setFathername("Suresh");
+		personalDetails.setMothername("Lata");
 
 		student.setDetails(personalDetails);
 
 		System.out.println(student.toString());
+		
 		System.out.println(student.getName());
 		System.out.println(student.getId());
 		System.out.println(student.getCityname());
 		
-		
-
 		System.out.println(student.getDetails().getFathername());
 		System.out.println(student.getDetails().getMothername());
 
